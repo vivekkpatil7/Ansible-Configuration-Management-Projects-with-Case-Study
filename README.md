@@ -1,7 +1,6 @@
-# Ansible-Configuration-Management-Projects-with-Case-Study
 # Cloud Infrastructure Projects (Ansible, Terraform and Cloudformation)
 
-This repository contains my projects related to cloud infrastructure provisioning and management, showcasing my skills and experience in AWS, Azure, Terraform, and Ansible.
+This repository contains my projects related to cloud infrastructure provisioning and management, showcasing my skills and experience in AWS (Cloudformation and Terraform), Azure, Terraform, and Ansible.
 
 ## Project List
 
